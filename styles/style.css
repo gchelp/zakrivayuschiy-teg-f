@@ -14,6 +14,7 @@
   background-image: var(--complex-background);
   background-size: cover;
   background-attachment: fixed;
+  font-variation-settings: 'wght' 785;
 }
 
 /* Шапка */
