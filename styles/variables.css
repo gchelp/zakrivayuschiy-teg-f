@@ -7,9 +7,7 @@
   /* Толщина шрифта */
   --font-weight-text: 400; /* Основной текст */
   --font-weight-title: 700; /* Заголовки */
-}
-
-:root {
+  
   --header-width: clamp(375px, 90%, 700px);
   --content-width: clamp(375px, 90%, 700px);
   --logo-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);

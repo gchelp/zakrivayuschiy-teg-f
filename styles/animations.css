@@ -35,12 +35,12 @@
   opacity: 0;
 }
 
-.card__icon-button .core{
+.card__icon-button .core {
   fill: transparent;
   transition: fill 0.3s ease;
 }
 
-.card__icon-button .main-body{
+.card__icon-button .main-body {
   fill: transparent;
   transition: fill 0.3s ease;
 }
@@ -85,7 +85,7 @@
   transition-delay: 0.05s;
 }
 
-.like-icon.is-liked .contour {
+.like-icon .contour {
   fill: var(--contour-color);
   transition: fill 0.1s linear;
 }
