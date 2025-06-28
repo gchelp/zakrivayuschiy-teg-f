@@ -1,1 +1,1 @@
-https://gchelp.github.io/zakrivayuschiy-teg-f/
+https://github.com/gchelp/zakrivayuschiy-teg-f
